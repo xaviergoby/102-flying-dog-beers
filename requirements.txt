@@ -1,4 +1,5 @@
-# Date: 01-22-2022
+# (OG) )Date: 01-22-2022
+# FORKED Date: 07-10-2022
 
 # Minimum requirements for a plotly dash application
 Brotli==1.0.9
